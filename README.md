@@ -1,6 +1,7 @@
 ﻿# GSFLokaverkefni
 
 1.12.2017
+valgeri:
 Ég var búinn að gleyma að við ættum að gera dagbók svo hún byrjar bara núna. Er kominn á spurningu 6.
 
 2.12.2017
@@ -15,5 +16,8 @@ Kári: það viriðst vera sem trigger með if er eitthvað að klikka og ég ke
 við kennarann á mánudaginn.
 
 5.12.2017
-Kári jæja það tók yfir 6 klukkutíma og hjálp frá gagnasafnsérfræðing en komst að því að það vantaði bara Delmiter// tagg í byrjun og endan á kóðanum
+Kári: jæja það tók yfir 6 klukkutíma og hjálp frá gagnasafnsérfræðing en komst að því að það vantaði bara Delmiter// tagg í byrjun og endan á kóðanum
 fml.
+
+5.12.2017
+Kári: jæja svo viriðst sem ég sé kominn á einhverja siglingu búinn með dæmi 30 líka skellum okkur í síðustu tvö.
